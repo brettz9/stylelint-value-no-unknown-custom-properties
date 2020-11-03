@@ -22,12 +22,6 @@
       "lcov"
     ]
   },
-  "files": [
-    "index.js",
-    "index.js.map",
-    "index.mjs",
-    "index.mjs.map"
-  ],
   "scripts": {
     "prepublishOnly": "npm test",
     "pretest": "rollup -c .rollup.js --silent",

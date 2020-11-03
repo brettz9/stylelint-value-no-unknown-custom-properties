@@ -1,6 +1,5 @@
 node_modules
 coverage
-/index.*
 package-lock.json
 *.log*
 .*
